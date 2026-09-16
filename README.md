@@ -16,7 +16,7 @@ Welcome to my portfolio! I'm a B.Tech Computer Science student passionate about 
 ## 🌐 My Portfolio
 
 🚀 **Explore my portfolio:**
-👉 **[View Live Portfolio](YOUR_PORTFOLIO_LINK_HERE)**
+👉 **[View Live Portfolio]( https://ankursingh-152004.github.io/Portfolio/)**
 
 The portfolio includes:
 
